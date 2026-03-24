@@ -2,17 +2,6 @@
   "config_version": 1,
   "users": [
     {
-      "username_lookup_hash": "oCg3Uco2PGSdYeCWmNL31q4oqpkXxFDqa08GoFCyqLo=",
-      "username_hash": "vsI+Mm7k1wB40iawuoFO42/49S5jqYuoNeA4xIgV4NE=",
-      "password_hash": "vNCEBLFcnbYrJCYUKZxDi2M2ZIC/nyzZ+VhdNTSvHgQ=",
-      "salt_username": "cteEbeRcUofSkOr8yCRhUw==",
-      "salt_password": "LASLAFxmXmk9r0APzcAj8A==",
-      "enabled": true,
-      "role": "AdminL",
-      "expires_at": "2026-12-31T22:59:59Z",
-      "note": ""
-    },
-    {
       "username_lookup_hash": "2EQ+XPRlOI6vplaSyxKuBMsEz41256B4Qrw60YaJpVw=",
       "username_hash": "DAqSfmB8M6k86BK5iM4tdaOq6hb3MXxYUIk4fBIHm+4=",
       "password_hash": "Jo4HBOlt4DDZk33mavDSQcsA8NmEU6BWI+YaofPSdMU=",
@@ -22,17 +11,6 @@
       "role": "OLX.ba",
       "expires_at": "2050-12-31T22:59:59Z",
       "note": "Korisnici za objavu artikla"
-    },
-    {
-      "username_lookup_hash": "NWxecJwUKWgzLef/j7pfUCcMsCO8LvcG2KRphWTxTVQ=",
-      "username_hash": "5PZKvNram4mx9S6QHcrfyNQo9pmZUY2yJ2iyj50dwts=",
-      "password_hash": "Ry+p1QPs2gC4wgqMkoALZJ4g5P5MsSDcvSSbjWARD04=",
-      "salt_username": "yLMWS/0x6orKtOEHDBLoLQ==",
-      "salt_password": "wcvlIu4IxD1+/uO0bQHuoQ==",
-      "enabled": true,
-      "role": "Nmp",
-      "expires_at": "2026-12-31T22:59:59Z",
-      "note": "nmp"
     }
   ]
 }
