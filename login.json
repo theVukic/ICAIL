@@ -1,1 +1,16 @@
-
+{
+  "config_version": 1,
+  "users": [
+    {
+      "username_lookup_hash": "oCg3Uco2PGSdYeCWmNL31q4oqpkXxFDqa08GoFCyqLo=",
+      "username_hash": "vsI+Mm7k1wB40iawuoFO42/49S5jqYuoNeA4xIgV4NE=",
+      "password_hash": "1oRnwkL772WJRrTZWzPeW7ZyiWkzF3h4hNcbEBc9BmM=",
+      "salt_username": "cteEbeRcUofSkOr8yCRhUw==",
+      "salt_password": "34Ko7C5vYMiU9eu57kpFLA==",
+      "enabled": true,
+      "role": "Vlasnik",
+      "expires_at": "2026-12-31T22:59:59Z",
+      "note": ""
+    }
+  ]
+}
