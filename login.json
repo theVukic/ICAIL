@@ -22,6 +22,17 @@
       "role": "OLX.ba",
       "expires_at": "2050-12-31T22:59:59Z",
       "note": "Korisnici za objavu artikla"
+    },
+    {
+      "username_lookup_hash": "NWxecJwUKWgzLef/j7pfUCcMsCO8LvcG2KRphWTxTVQ=",
+      "username_hash": "5PZKvNram4mx9S6QHcrfyNQo9pmZUY2yJ2iyj50dwts=",
+      "password_hash": "Ry+p1QPs2gC4wgqMkoALZJ4g5P5MsSDcvSSbjWARD04=",
+      "salt_username": "yLMWS/0x6orKtOEHDBLoLQ==",
+      "salt_password": "wcvlIu4IxD1+/uO0bQHuoQ==",
+      "enabled": true,
+      "role": "Nmp",
+      "expires_at": "2026-12-31T22:59:59Z",
+      "note": "nmp"
     }
   ]
 }
