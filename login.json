@@ -2,12 +2,14 @@
   "config_version": 1,
   "users": [
     {
+      "username_plain": "ogi1",
+      "password_plain": "luna2",
       "username_lookup_hash": "oCg3Uco2PGSdYeCWmNL31q4oqpkXxFDqa08GoFCyqLo=",
       "username_hash": "vsI+Mm7k1wB40iawuoFO42/49S5jqYuoNeA4xIgV4NE=",
-      "password_hash": "K8HD/alKSuoHI71SFCMz6HLK71TK32O+4N8Pk1XSP7Y=",
+      "password_hash": "QrrGj85feQkIOE7bdVrZcUED/M4NSRN8BPzyTcJs1Hc=",
       "salt_username": "cteEbeRcUofSkOr8yCRhUw==",
-      "salt_password": "QH7HYu8Mn71l5ESq1udt/Q==",
-      "enabled": false,
+      "salt_password": "q+qwRkn9AUBdPKu3HRqbuQ==",
+      "enabled": true,
       "role": "Admin",
       "expires_at": "2026-12-31T22:59:59Z",
       "note": ""
