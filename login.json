@@ -11,6 +11,17 @@
       "role": "OLX.ba",
       "expires_at": "2050-12-31T22:59:59Z",
       "note": "Korisnici za objavu artikla"
+    },
+    {
+      "username_lookup_hash": "27x6+/OAEXWJZmxXmXEjUkDfXj1HglZ7eTfbIcOZ0j0=",
+      "username_hash": "IoRrNdG6tOXCMX9Dg5uQLXmAZxUCHO6tsJEg94FYvxE=",
+      "password_hash": "jUoJGd6skEVVF2MQ8tQ1ImzMAoHJmkw7mY2JlltgKi0=",
+      "salt_username": "byoXrsnWev5aRbSNkAOqdA==",
+      "salt_password": "xa3GKwVUiLQJIVFY9Ht5eA==",
+      "enabled": true,
+      "role": "gazda",
+      "expires_at": "2030-12-31T22:59:59Z",
+      "note": "Aplikacija za kirbija ASI"
     }
   ]
 }
